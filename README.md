@@ -28,16 +28,9 @@ Passionate about building scalable web apps, AI-driven automation, and clean, mo
 
 ---
 
-## 📈 GitHub Stats
-
-![Mulu's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuluBeshada&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuluBeshada&layout=compact&theme=radical)
-
----
-
 ## 📫 Connect with Me
 
-- [Telegram](t.me/mulu_b1)  
+- [Telegram](https://t.me/mulu_b1)  
 - [Email](mailto:mulubeshada2@gmail.com)  
 
 ---
