@@ -78,39 +78,79 @@
 
 <br/>
 
-<!-- 03. PROJECTS -->
+<!-- 03. PROJECTS (REDESIGNED) -->
 <h2>03. Some Things I've Built</h2>
 
-<!-- FEATURED PROJECTS -->
-<h3>🌟 Featured Projects</h3>
-
-<table width="100%">
+<!-- PROJECT 1: Image Left, Text Right -->
+<table width="100%" style="border-collapse: collapse; border: none;">
   <tr>
-    <td width="50%" valign="top">
-      <h4>EGL Corp Official Website</h4>
-      <p>Designed and developed a responsive corporate website that introduces the company, communicates its services, and provides visitors with an accessible way to explore its digital presence.</p>
-      <p><i>React, Vite, TypeScript, Tailwind CSS</i></p>
-      <a href="YOUR_LINK"><b>View Project ↗</b></a>
+    <td width="50%" valign="middle" style="padding: 20px;">
+      <img src="YOUR_IMAGE_LINK_HERE" alt="EGL Corp Website" width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);" />
     </td>
-    <td width="50%" valign="top">
-      <h4>Mulu Resort & Spa</h4>
-      <p>Developed a digital experience for Mulu Resort & Spa, combining a professional hospitality website with a booking and reservation system.</p>
-      <p><i>React, Node.js, Express.js, PostgreSQL, Tailwind CSS, Prisma</i></p>
-      <a href="YOUR_LINK"><b>View Project ↗</b></a>
+    <td width="50%" valign="middle" style="padding: 20px;">
+      <p style="color: #94a3b8; font-size: 12px; letter-spacing: 2px; text-transform: uppercase; margin-bottom: 5px;">Featured Project</p>
+      <h3 style="font-size: 24px; margin-top: 0;">EGL Corp Official Website</h3>
+      <p style="color: #cbd5e1; line-height: 1.6;">Designed and developed a responsive corporate website that introduces the company, communicates its services, and provides visitors with an accessible way to explore its digital presence.</p>
+      <p style="font-size: 13px; color: #64748b;"><i>React • Vite • TypeScript • Tailwind CSS</i></p>
+      <br/>
+      <a href="YOUR_LINK_HERE" style="color: #f97316; text-decoration: none; font-weight: bold;">Read More &rarr;</a>
     </td>
   </tr>
+</table>
+
+<br/><br/>
+
+<!-- PROJECT 2: Text Left, Image Right -->
+<table width="100%" style="border-collapse: collapse; border: none;">
   <tr>
-    <td width="50%" valign="top">
-      <h4>Pharmacy Stock & Sales Management System</h4>
-      <p>A pharmacy management system designed to organize stock records and sales activities while supporting everyday pharmacy operations.</p>
-      <p><i>React, TypeScript, Node.js, Express.js, MySQL, Prisma, Shadcn UI</i></p>
-      <a href="YOUR_LINK"><b>View Project ↗</b></a>
+    <td width="50%" valign="middle" style="padding: 20px;">
+      <p style="color: #94a3b8; font-size: 12px; letter-spacing: 2px; text-transform: uppercase; margin-bottom: 5px;">Featured Project</p>
+      <h3 style="font-size: 24px; margin-top: 0;">Mulu Resort & Spa</h3>
+      <p style="color: #cbd5e1; line-height: 1.6;">Developed a digital experience for Mulu Resort & Spa, combining a professional hospitality website with a booking and reservation system.</p>
+      <p style="font-size: 13px; color: #64748b;"><i>React • Node.js • Express.js • PostgreSQL • Tailwind CSS • Prisma</i></p>
+      <br/>
+      <a href="YOUR_LINK_HERE" style="color: #f97316; text-decoration: none; font-weight: bold;">Read More &rarr;</a>
     </td>
-    <td width="50%" valign="top">
-      <h4>Study Mastery Ethiopia</h4>
-      <p>An educational platform designed to support student learning, organize studies, access learning resources, and manage learning activities.</p>
-      <p><i>Next.js, Node.js, MongoDB, Tailwind CSS</i></p>
-      <a href="YOUR_LINK"><b>View Project ↗</b></a>
+    <td width="50%" valign="middle" style="padding: 20px;">
+      <img src="YOUR_IMAGE_LINK_HERE" alt="Mulu Resort & Spa" width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);" />
+    </td>
+  </tr>
+</table>
+
+<br/><br/>
+
+<!-- PROJECT 3: Image Left, Text Right -->
+<table width="100%" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td width="50%" valign="middle" style="padding: 20px;">
+      <img src="YOUR_IMAGE_LINK_HERE" alt="Pharmacy Management System" width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);" />
+    </td>
+    <td width="50%" valign="middle" style="padding: 20px;">
+      <p style="color: #94a3b8; font-size: 12px; letter-spacing: 2px; text-transform: uppercase; margin-bottom: 5px;">Featured Project</p>
+      <h3 style="font-size: 24px; margin-top: 0;">Pharmacy Stock & Sales System</h3>
+      <p style="color: #cbd5e1; line-height: 1.6;">A pharmacy management system designed to organize stock records and sales activities while supporting everyday pharmacy operations.</p>
+      <p style="font-size: 13px; color: #64748b;"><i>React • TypeScript • Node.js • Express.js • MySQL • Prisma • Shadcn UI</i></p>
+      <br/>
+      <a href="YOUR_LINK_HERE" style="color: #f97316; text-decoration: none; font-weight: bold;">Read More &rarr;</a>
+    </td>
+  </tr>
+</table>
+
+<br/><br/>
+
+<!-- PROJECT 4: Text Left, Image Right -->
+<table width="100%" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td width="50%" valign="middle" style="padding: 20px;">
+      <p style="color: #94a3b8; font-size: 12px; letter-spacing: 2px; text-transform: uppercase; margin-bottom: 5px;">Featured Project</p>
+      <h3 style="font-size: 24px; margin-top: 0;">Study Mastery Ethiopia</h3>
+      <p style="color: #cbd5e1; line-height: 1.6;">An educational platform designed to support student learning, organize studies, access learning resources, and manage learning activities.</p>
+      <p style="font-size: 13px; color: #64748b;"><i>Next.js • Node.js • MongoDB • Tailwind CSS</i></p>
+      <br/>
+      <a href="YOUR_LINK_HERE" style="color: #f97316; text-decoration: none; font-weight: bold;">Read More &rarr;</a>
+    </td>
+    <td width="50%" valign="middle" style="padding: 20px;">
+      <img src="YOUR_IMAGE_LINK_HERE" alt="Study Mastery Ethiopia" width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);" />
     </td>
   </tr>
 </table>
@@ -132,7 +172,7 @@
 
 <br/>
 
-<!-- 04. GITHUB STATS (Replaces the "Certifications & Expertise" visual block for a cleaner GitHub look) -->
+<!-- 04. GITHUB STATS -->
 <h2>04. Engineering Metrics</h2>
 
 <div align="center">
